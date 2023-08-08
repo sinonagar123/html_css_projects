@@ -1,5 +1,5 @@
-<img src="./banner.jpeg">
-<h1 align="center">Hi 👋, This is vayola pradeep.</h1>
+![banner](https://github.com/sinonagar123/html_css_projects/assets/102567147/0f93db4c-ab59-4f98-b914-5d5e84511332)
+<h3 align="center">Hi 👋, This is vayola pradeep.</h3>
 <h3 align="center">This is a challenge that I took to boost my HTML, CSS & JS skills.</h3>
 
 <h3 align="left">Connect with me:</h3>
