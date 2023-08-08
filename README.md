@@ -1,4 +1,4 @@
-<img src="./banner.png">
+<img src="./banner.jpeg">
 <h1 align="center">Hi 👋, This is vayola pradeep.</h1>
 <h3 align="center">This is a challenge that I took to boost my HTML, CSS & JS skills.</h3>
 
