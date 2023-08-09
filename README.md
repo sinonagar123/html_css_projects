@@ -1,7 +1,7 @@
 ![banner](https://github.com/sinonagar123/html_css_projects/assets/102567147/0f93db4c-ab59-4f98-b914-5d5e84511332)
 <h1 align="center">50 Projects in 50 Days - HTML/CSS</h1>
-<h3 align="center">This is a challenge that I took to boost my HTML & CSS skills.</h3>
-<h3 align="center">Down here you will find all the live previews/h3>
+<h3 align="center">Down here you will find all the live previews.</h3>
+
 <table>
 <thead>
 <tr>
@@ -15,7 +15,7 @@
 <tr>
 <td align="left">1</td>
 <td align="center">CSS Flexbox Photogallery</td>
-<td align="right"><a href="https://codepen.io/vayolapradeep/pen/LYXoGXL" rel="nofollow">https://codepen.io/Web_Cifar/pen/OJMrzaB</a></td>  
+<td align="right"><a href="https://codepen.io/vayolapradeep/pen/LYXoGXL" rel="nofollow">https://codepen.io/vayolapradeep/pen/LYXoGXL</a></td>  
 </tr>
 </tbody></table>
 <h3 align="left">Connect with me:</h3>
