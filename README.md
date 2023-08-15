@@ -18,7 +18,12 @@
 <td align="center">CSS Flexbox Photogallery</td>
 <td align="right"><a href="https://codepen.io/vayolapradeep/pen/LYXoGXL" rel="nofollow">https://codepen.io/vayolapradeep/pen/LYXoGXL</a></td>  
 </tr>
-</tbody></table>
+ <tr>
+<td align="left">2</td>
+<td align="center">Simple Registration Page</td>
+<td align="right"><a href="https://codepen.io/vayolapradeep/pen/LYMPYLm" rel="nofollow">https://codepen.io/vayolapradeep/pen/LYMPYLm</a></td>  
+</tr></tbody></table>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/vayolapradeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="vayolapradeep" height="30" width="40" /></a>
