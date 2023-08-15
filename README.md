@@ -1,5 +1,6 @@
 ![banner](https://github.com/sinonagar123/html_css_projects/assets/102567147/0f93db4c-ab59-4f98-b914-5d5e84511332)
-<h1 align="center">50 Projects in 50 Days - HTML/CSS</h1>
+
+![WhatsApp Image 2023-08-15 at 12 07 50 PM](https://github.com/sinonagar123/html_css_projects/assets/102567147/462c8e23-d30f-4b92-87b0-f8d9c45194e0)<h1 align="center">50 Projects in 50 Days - HTML/CSS</h1>
 <h3 align="center">Down here you will find all the live previews.</h3>
 
 <table>
