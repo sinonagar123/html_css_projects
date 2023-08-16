@@ -22,7 +22,14 @@
 <td align="left">2</td>
 <td align="center">Simple Registration Page</td>
 <td align="right"><a href="https://codepen.io/vayolapradeep/pen/LYMPYLm" rel="nofollow">https://codepen.io/vayolapradeep/pen/LYMPYLm</a></td>  
-</tr></tbody></table>
+</tr>
+
+<tr>
+<td align="left">3</td>
+<td align="center">Parallax Scrolling</td>
+<td align="right"><a href="https://codepen.io/vayolapradeep/pen/MWZgVMo" rel="nofollow">https://codepen.io/vayolapradeep/pen/MWZgVMo</a></td>  
+</tr>
+</tbody></table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
