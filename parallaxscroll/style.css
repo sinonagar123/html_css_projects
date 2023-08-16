@@ -1,0 +1,74 @@
+body, html {
+    height: 100%;
+    padding: 0;
+   margin:0
+  }
+  
+  .parallax1 {
+    /* The image used */
+    background-image: url("https://res.cloudinary.com/dhfay42ie/image/upload/v1691551161/5_jlgheh.jpg");
+  
+    /* Full height */
+    height: 100%; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100vw;
+    opacity:0.8;
+  }
+  .parallax2 {
+    /* The image used */
+    background-image: url("https://res.cloudinary.com/dhfay42ie/image/upload/v1692137113/WhatsApp_Image_2023-08-15_at_6.04.19_PM_jlfydk.jpg");
+  
+    /* Full height */
+    height: 100%; 
+    width: 100vw;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity:0.70;
+  }
+  .heading{
+    position: absolute;
+  left: 0;
+  top: 50%;
+  height: 100px;
+  width: 100%;
+  text-align: center;
+  color: #fff9f9;
+ 
+   
+  }
+  .caption{
+    
+    
+    background-color: #111;
+  color: #fff;
+  padding: 18px;
+  
+ 
+  }
+  .subline{
+    font-size: 20px;
+    letter-spacing: 5px;
+  }
+  .cakewords{
+   
+    padding: 20px;
+    font-size: 20px;
+    initial-letter: 30px;
+  }
+  .content{
+    height:auto;
+    background-color:rgb(167, 155, 155);
+    font-size:20px;
+    padding: 20px;
+   
+   
+  }
+  
