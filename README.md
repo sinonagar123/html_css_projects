@@ -29,7 +29,11 @@
 <td align="center">Parallax Scrolling</td>
 <td align="right"><a href="https://codepen.io/vayolapradeep/pen/MWZgVMo" rel="nofollow">https://codepen.io/vayolapradeep/pen/MWZgVMo</a></td>  
 </tr>
-</tbody></table>
+ <tr>
+<td align="left">4</td>
+<td align="center">CSS IMAGE ANIMATION</td>
+<td align="right"><a href="https://codepen.io/vayolapradeep/pen/wvRvMXg" rel="nofollow">https://codepen.io/vayolapradeep/pen/wvRvMXg</a></td>  
+</tr></tbody></table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
