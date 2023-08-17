@@ -1,0 +1,32 @@
+.central {
+    /* animation properties */
+    animation-name: my-animation;
+    animation-duration: 8s;
+    animation-direction:alternate-reverse;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    
+    /* other properties */
+    width: 15%;
+    height: 10%;
+    border-radius: 6px;
+    position: absolute;
+    
+    margin-left: auto;
+    margin-right: auto; 
+  
+  }
+  
+  @keyframes my-animation {
+    from {
+      
+      width: 15%;
+      top: 10px;
+    }
+    to {
+      
+      width: 5%;
+      top: 40px;
+    }
+  }
+ 
