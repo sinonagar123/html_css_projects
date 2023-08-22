@@ -1,0 +1,21 @@
+.block-element {
+    display: block;
+   
+    
+    background-color: red;
+    margin-bottom: 10px;
+  }
+  
+  .inline-element {
+    display: inline;
+    padding: 5px;
+    background-color: blue;
+  }
+  
+  .inline-block-element {
+    display: inline-block;
+    
+    
+    background-color: green;
+    margin-right: 10px;
+  }
