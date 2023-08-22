@@ -1,0 +1,21 @@
+p {
+
+    font-size: 40px;
+    font-family: "Helvetica Neue", arial, sans-serif;
+    }
+    .example1 {
+    
+    text-shadow: 2px;
+    }
+    .example2 {
+    
+    text-shadow: 2px 2px;
+    }
+    .example3 {
+    
+    text-shadow: 2px 2px 5px;
+    }
+    .example4 {
+    
+    text-shadow: 2px 2px 5px yellow;
+    }
