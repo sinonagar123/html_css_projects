@@ -1,5 +1,5 @@
 ![banner](https://github.com/sinonagar123/html_css_projects/assets/102567147/462c8e23-d30f-4b92-87b0-f8d9c45194e0)
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qf3bb9v2oe1d2k2k7sor.jpeg)
+
 <h1 align="center">25 Projects in 25 Days - HTML/CSS</h1>
 <h3 align="center">Down here you will find all the live previews.</h3>
 
