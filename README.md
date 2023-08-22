@@ -33,6 +33,11 @@
 <td align="left">4</td>
 <td align="center">CSS IMAGE ANIMATION</td>
 <td align="right"><a href="https://codepen.io/vayolapradeep/pen/wvRvMXg" rel="nofollow">https://codepen.io/vayolapradeep/pen/wvRvMXg</a></td>  
+</tr>
+<tr>
+<td align="left">5</td>
+<td align="center">Difference Between Display Inline, Block, Inline-block</td>
+<td align="right"><a href="https://codepen.io/vayolapradeep/pen/ExGaQWM" rel="nofollow">https://codepen.io/vayolapradeep/pen/ExGaQWM</a></td>  
 </tr></tbody></table>
 
 <h3 align="left">Connect with me:</h3>
