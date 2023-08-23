@@ -43,6 +43,11 @@
 <td align="left">6</td>
 <td align="center">Enhancing Text with CSS Text Shadow Effects</td>
 <td align="right"><a href="https://codepen.io/vayolapradeep/pen/abPONOR" rel="nofollow">https://codepen.io/vayolapradeep/pen/abPONOR</a></td>  
+</tr>
+<tr>
+<td align="left">7</td>
+<td align="center">How to Center a Div for Perfect Layouts</td>
+<td align="right"><a href="https://codepen.io/vayolapradeep/pen/poqJdQM" rel="nofollow">https://codepen.io/vayolapradeep/pen/poqJdQM</a></td>  
 </tr></tbody></table>
 
 <h3 align="left">Connect with me:</h3>
